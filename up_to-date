@@ -1,0 +1,9 @@
+ Git commanda used
+git clone
+git branch
+git checkout
+git push
+git add .
+git commit
+git status
+git merge
